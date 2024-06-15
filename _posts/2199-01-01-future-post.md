@@ -9,4 +9,4 @@ tags:
 ---
 
 
-[This is an external link to pipeline Valor(https://pipelinevalor.globo.com/mercado/noticia/goldman-sachs-eleva-rede-dor-para-compra.ghtml)
+[This is an external link to pipeline Valor](https://pipelinevalor.globo.com/mercado/noticia/goldman-sachs-eleva-rede-dor-para-compra.ghtml)
