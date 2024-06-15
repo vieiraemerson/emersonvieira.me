@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "My personal blog"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Emerson"
-description              : &description ""
+description              : ""
 url                      : https://www.emersonvieira.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vieiraemerson/emersonvieira.me"
@@ -25,7 +25,7 @@ author:
   name             : "Emerson Vieira"
   pronouns         : # example: "she/her"  
   bio              : " "
-  location         : "Sao Paulo - Brazil"
+  location         : "Sao Paulo,Brazil"
   employer         : "UFABC/Insper/Goldman Sachs"
   uri              : # URL
   email            : "emersonsv@al.insper.edu.br" 
