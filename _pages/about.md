@@ -9,9 +9,21 @@ redirect_from:
 
 My name is Emerson Vieira
 
-Disclaimer
-======
-Please read this disclaimer ("disclaimer") carefully before using website (“website”, "service") operated/authored by [Emerson Sousa Vieira] ("us", 'we", "our").
+###Disclaimer
+---
+
+
+
+
+
+
+
+
+
+
+
+
+Please read this disclaimer ("disclaimer") carefully before using website (“website”, "service") operated/authored by Emerson Sousa Vieira ("us", 'we", "our").
 Any views or opinions presented in this website are solely those of the author and do not necessarily represent those of Goldman Sachs and/or any academic institution mentioned in this website, including UFABC and/or Insper. Any referall 
 All information posted is merely for educational and informational purposes. Should you decide to act upon any information on this website, you do so at your own risk.
 While the information on this website has been verified to the best of our abilities, we cannot guarantee that there are no mistakes or errors.
