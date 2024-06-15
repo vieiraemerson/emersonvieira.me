@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Goldman Sachs eleva Rede D'Or para compra'
 date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
@@ -8,4 +8,5 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+
+[This is an external link to pipeline Valor(https://pipelinevalor.globo.com/mercado/noticia/goldman-sachs-eleva-rede-dor-para-compra.ghtml)
